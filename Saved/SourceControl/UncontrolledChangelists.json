@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"K:/Facu/VRProject/Content/Level/StartingMap.umap",
+				"K:/Facu/VRProject/Content/Widget/Pointer.uasset",
+				"K:/Facu/VRProject/Content/BluePrints/Can_BP.uasset",
+				"K:/Facu/VRProject/Content/Widget/Circle_Exercise.uasset",
+				"K:/Facu/VRProject/Content/Widget/circle_BP.uasset",
+				"K:/Facu/VRProject/Content/Widget/Curve_Exercise.uasset",
+				"K:/Facu/VRProject/Content/Widget/Curve_BP.uasset",
+				"K:/Facu/VRProject/Content/Widget/Inclinada_Exercise.uasset",
+				"K:/Facu/VRProject/Content/Widget/Incline_BP.uasset",
+				"K:/Facu/VRProject/Content/Widget/Recta_Exercise.uasset",
+				"K:/Facu/VRProject/Content/Widget/Recta_BP.uasset",
+				"K:/Facu/VRProject/Content/Widget/Ejercicios/StraightLine/recta.uasset",
+				"K:/Facu/VRProject/Content/Widget/Ejercicios/circle_vid.uasset",
+				"K:/Facu/VRProject/Content/Widget/Ejercicios/Inclinada/Vidinclinada.uasset",
+				"K:/Facu/VRProject/Content/Widget/Ejercicios/Curva/curva.uasset",
+				"K:/Facu/VRProject/Content/MusicaRV.uasset",
+				"K:/Facu/VRProject/Content/Bach_-_Goldberg_Variations_BWV_988_-_01_-_Aria__Copyright_Free_.uasset"
+			]
+		}
+	]
+}
